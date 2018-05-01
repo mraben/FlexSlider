@@ -10,5 +10,5 @@
          }
 # Step 2. Add the dependency
     dependencies{
-         compile 'com.github.theyoungl:FlexSlider:V1.0'
+         implementation 'com.github.mraben:FlexSlider:V1.0'
     }
